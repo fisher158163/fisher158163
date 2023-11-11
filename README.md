@@ -1,8 +1,14 @@
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fisher158163/fisher158163/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fisher158163/fisher158163/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/fisher158163/fisher158163/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 <!--<h3>
  <img src="assets/hello.gif" width="64"/>
