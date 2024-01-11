@@ -20,15 +20,15 @@
   Hi, I'm Fisher
 </h3>-->
 
-<!--<h3>
- <img src="https://p.ipic.vip/ss9hjt.gif" width="32"/>
-  Hi, I'm Fisher
-</h3>-->
-
 <h3>
- <img src="https://github.com/fisher158163/fisher158163/blob/main/assets/hello.gif" width="64"/>
+ <img src="https://p.ipic.vip/67yvjm.gif" width="64"/>
   Hi, I'm Fisher
 </h3>
+
+<!--<h3>
+ <img src="https://github.com/fisher158163/fisher158163/blob/main/assets/hello.gif" width="64"/>
+  Hi, I'm Fisher
+</h3>-->
 
 📍 I live in Shenzhen, China.
 
