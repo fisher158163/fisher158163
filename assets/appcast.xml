@@ -11,7 +11,8 @@
 			http://htmlpreview.github.io/?https://github.com/fisher158163/fisher158163/blob/main/assets/release-note.html
 			</sparkle:releaseNotesLink> -->
 			
-			<description><![CDATA[
+			<description>
+				<![CDATA[
 				
 				<style>
 				body {
@@ -47,7 +48,8 @@
 				<p>感谢您的支持与理解！</p>
 				<p>祝您使用愉快！</p>
 				
-				]]></description>
+				]]>
+				</description>
 			
 			<pubDate>Fri, 08 Nov 2024 14:03:11 +0000</pubDate>
 			
