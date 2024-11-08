@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>应用名称</title>
-        <description>Most recent changes with links to updates.</description>
+        <title>Sparkle测试</title>
+        <description>这是一条Sparke测试信息.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.14</title>
+            <title>Version 1.1.0</title>
             <sparkle:releaseNotesLink>
-                http://xxx.com/release-note.html
+                https://raw.githubusercontent.com/fisher158163/fisher158163/main/assets/release-note.html
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
+            <pubDate>Fri, 08 Nov 2024 14:03:11 +0000</pubDate>
             <enclosure
-                url="https://xxx.com/app.zip"
-                sparkle:shortVersionString="1.4.14"
-                sparkle:version="2019.05.04"
-                length="6605799"
+                url="https://raw.githubusercontent.com/fisher158163/fisher158163/main/assets/SparkleUpdateDemo.zip"
+                sparkle:shortVersionString="1.1.0"
+                sparkle:version="2024.11.08"
+                length="923168"
                 type="application/octet-stream"
-                sparkle:edSignature="MEYCIQCQaUqxcrhhEABlWxk+1At5QSwty+Li8d6Sr3q6jJF1JgIhAOWGpIkYLwXC
-                RFfaA8uz34Dy7CXCczpmSyCOQ5+rfOFL"
+                sparkle:edSignature="d1quc3cvDhKZbeawv29gqbfT8MZ7MrlCx4/aSpSc4nlsV9B53/zE1UQCpErmVocDJAgVBwiEvYrQEjko7JEpBQ=="
             />
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
