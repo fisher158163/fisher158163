@@ -56,8 +56,7 @@
 			<enclosure
 			url="https://raw.githubusercontent.com/fisher158163/fisher158163/main/assets/SparkleUpdateDemo.zip"
 			sparkle:shortVersionString="1.1.0"
-			<!-- sparkle:version="2024.11.08" -->
-			<sparkle:version>1</sparkle:version>
+			sparkle:version="2024.11.08"
 			length="923168"
 			type="application/octet-stream"
 			sparkle:edSignature="d1quc3cvDhKZbeawv29gqbfT8MZ7MrlCx4/aSpSc4nlsV9B53/zE1UQCpErmVocDJAgVBwiEvYrQEjko7JEpBQ=="
