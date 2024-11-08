@@ -12,18 +12,23 @@
 			</sparkle:releaseNotesLink> -->
 			
 			<description><![CDATA[
-				<style>ul{margin-top: 0;margin-bottom: 7;padding-left: 18;}</style><ul>
+				<style>
+				ul { margin-top: 0; margin-bottom: 7px; padding-left: 18px; }
+				.highlight { color: blue; font-weight: bold; }
+				</style>
+				<ul>
 				<h1>更新说明</h1>
-				<p>尊敬的用户：</p>
+				<p class="highlight">尊敬的用户：</p>
 				<p>为了提供更好的服务和体验，我们对 App 进行了全面的更新。以下是本次更新的主要内容：</p>
 				<ul>
-				<li>优化了用户界面，使操作更加流畅。</li>
-				<li>增加了多项新功能，包括但不限于：XX功能、YY功能。</li>
+				<li class="highlight">优化了用户界面，使操作更加流畅。</li>
+				<li>增加了多项新功能，包括但不限于：<span class="highlight">XX</span>功能、<span class="highlight">YY</span>功能。</li>
 				<li>修复了已知的若干问题，提升了系统的稳定性和安全性。</li>
 				</ul>
 				<p>请您尽快下载最新版本的 App，享受更优质的服务。如有任何疑问或建议，欢迎通过客服联系我们。</p>
-				<p>感谢您的支持与理解！</p>
+				<p class="highlight">感谢您的支持与理解！</p>
 				<p>祝您使用愉快！</p>
+				</ul>
 				]]></description>
 			
 			<pubDate>Fri, 08 Nov 2024 14:03:11 +0000</pubDate>
