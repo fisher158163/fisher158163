@@ -34,9 +34,9 @@
 
 🏢 I’m an engineer work at VisionChina Media.
 
-🖥 I’m an iOS、macOS、Android、Electron and Flutter developer.
+🖥 I’m an  Apple's Platform、Android、Electron and Flutter developer.
 
-🏖 	 I like biking、climbing、fishing......
+🏖 I like biking、climbing、fishing......
 
 **My Github Stats:**
 
