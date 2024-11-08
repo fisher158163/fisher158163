@@ -6,9 +6,19 @@
         <language>en</language>
         <item>
             <title>Version 1.1.0</title>
-            <sparkle:releaseNotesLink>
+ <!--            <sparkle:releaseNotesLink>
                 http://htmlpreview.github.io/?https://github.com/fisher158163/fisher158163/blob/main/assets/release-note.html
-            </sparkle:releaseNotesLink>
+            </sparkle:releaseNotesLink> -->
+            <description>
+          <![CDATA[
+            <ul>
+              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+              <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
+              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
+              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit <a href="#">pretium</a>.</li>
+            </ul>
+          ]]>
+        </description>
             <pubDate>Fri, 08 Nov 2024 14:03:11 +0000</pubDate>
             <enclosure
                 url="https://raw.githubusercontent.com/fisher158163/fisher158163/main/assets/SparkleUpdateDemo.zip"
