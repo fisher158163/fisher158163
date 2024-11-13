@@ -7,11 +7,15 @@
 		<item>
 			<title>Version 1.1.0</title>
 			
+			 <sparkle:releaseNotesLink>
+			https://raw.githubusercontent.com/fisher158163/fisher158163/main/assets/update.txt
+			 </sparkle:releaseNotesLink>
+			
 			<!--  <sparkle:releaseNotesLink>
 			http://htmlpreview.github.io/?https://github.com/fisher158163/fisher158163/blob/main/assets/release-note.html
 			</sparkle:releaseNotesLink> -->
 			
-			<description>
+			<!-- <description>
 				<![CDATA[
 				
 				<style>
@@ -49,7 +53,7 @@
 				<p>祝您使用愉快！</p>
 				
 				]]>
-				</description>
+				</description> -->
 			
 			<pubDate>Fri, 08 Nov 2024 14:03:11 +0000</pubDate>
 			
