@@ -46,6 +46,6 @@
 
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisher158163&layout=compact&langs_count=8&theme=buefy)](https://github.com/fisher158163)
 
-**Magic Number**
+**My Magic Number:**
 
 ![Visited By](https://count.getloli.com/get/@fisher158163?theme=gelbooru)
