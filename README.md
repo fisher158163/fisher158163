@@ -1,6 +1,10 @@
-<div style="text-align:center">
+<!--<div style="text-align:center">
   <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
-</div>
+</div>-->
+
+<p align="center">
+  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake-dark.svg">
