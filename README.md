@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
+  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 500px; height: auto;"/>
 </p>
 
 <picture>
@@ -19,7 +19,7 @@
 </h3>-->
 
 <h3>
- <img src="https://p.ipic.vip/67yvjm.gif" width="64"/>
+  <img src="https://p.ipic.vip/67yvjm.gif" style="width: 60px; height: auto;"/>
   Hi, I'm Fisher
 </h3>
 
@@ -32,7 +32,7 @@
 <h4> 🏠 I live in Shenzhen, China. </h4>
 <h4> 🏢 I’m an engineer work at VisionChina Media. </h4>
 <h4> 💻 I’m an  Apple's Platform、Android、Electron and Flutter developer. </h4>
-<h4> <img src="https://p.ipic.vip/qj71ot.gif" width="18"/> I like coding、biking、climbing、fishing...... </h4>
+<h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> I like coding、biking、climbing、fishing...... </h4>
 
 
 **My Github Stats:**
