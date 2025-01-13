@@ -21,6 +21,7 @@
 <h3>
  <img src="https://p.ipic.vip/67yvjm.gif" width="64"/>
   Hi, I'm Fisher
+ <img src="https://p.ipic.vip/67yvjm.gif" width="64"/>
 </h3>
 
 <!--<h3>
@@ -34,7 +35,7 @@
 
 🖥 I’m an  Apple's Platform、Android、Electron and Flutter developer.
 
-🏖 I like biking、climbing、fishing......
+🏖 I like biking、climbing、fishing, coding......
 
 **My Github Stats:**
 
