@@ -1,3 +1,7 @@
+<div style="text-align:center">
+  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake.svg">
@@ -13,10 +17,6 @@
  <img src="assets/drag.gif" width="64"/>
   Hi, I'm Fisher
 </h3>-->
-
-<div style="text-align:center">
-  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
-</div>
 
 <h3>
  <img src="https://p.ipic.vip/67yvjm.gif" width="64"/>
