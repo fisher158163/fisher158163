@@ -1,7 +1,3 @@
-<!--<div style="text-align:center">
-  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
-</div>-->
-
 <p align="center">
   <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 600px; height: auto;" />
 </p>
