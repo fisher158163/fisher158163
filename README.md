@@ -32,7 +32,7 @@
 <h5> 🏠 I live in Shenzhen, China. </h5>
 <h5> 🏢 I’m an engineer work at VisionChina Media. </h5>
 <h5> 💻 I’m an  Apple's Platform、Android、Electron and Flutter developer. </h5>
-<h5> <img src="https://p.ipic.vip/qj71ot.gif" width="16"/> I like coding、biking、climbing、fishing...... </h5>
+<h5> <img src="https://p.ipic.vip/qj71ot.gif" width="15"/> I like coding、biking、climbing、fishing...... </h5>
 
 
 **My Github Stats:**
