@@ -20,7 +20,7 @@
 
 <h3>
   <img src="https://p.ipic.vip/67yvjm.gif" style="width: 60px; height: auto;"/>
-  <img src='https://p.ipic.vip/i69iy8.gif' alt='Hi' width="22"/>
+  <img src='https://p.ipic.vip/i69iy8.gif' alt='Hi' width="24"/>
   Hi, I'm Fisher
 </h3>
 
