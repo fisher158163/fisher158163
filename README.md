@@ -32,7 +32,7 @@
 <!--<h5> 🌍 I live in Shenzhen, China. </h5>-->
 <h4> 🏠 I live in Shenzhen, China. </h4>
 <h4> 🏢 I’m an engineer work at VisionChina Media. </h4>
-<h4> 💻 I focus on Apple's Platform、Android、Electron、Flutter and other technologies. </h4>
+<h4> 💻 I focus on Apple's Platform、Android、 Qt、Electron、Flutter and other technologies. </h4>
 <h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> I like coding、biking、climbing、fishing...... </h4>
 
 
