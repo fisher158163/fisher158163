@@ -21,7 +21,7 @@
 
 <h4> 🍎 Apple Platform Engineer | macOS • iOS • watchOS • tvOS • visionOS</h4>
 
-<h4> 🧰 Languages: Objective-C • Swift • C++ • JavaScript </h4>
+<h4> 🧰 Languages: Objective-C • Swift • C++ • Java • Kotlin • JavaScript • Golang</h4>
 
 <h4> 🧩 Frameworks: Qt • Electron • Flutter </h4>
 
