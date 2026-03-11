@@ -19,7 +19,7 @@
 <h4> 💼 Software Engineer at VisionChina Media </h4>
 <h4> 🍎 Apple Platform Engineer | macOS • iOS • watchOS • tvOS • visionOS</h4>
 <h4> 🧑‍💻 Languages | Objective-C • Swift • C++ • Java • Kotlin • JavaScript • Golang</h4>
-<h4> 🧩 Frameworks | Qt • Electron • Flutter </h4>
+<h4> 🧩 Frameworks | Qt • Electron • Flutter • Vue • React</h4>
 <h4> ⚙️ Engineering Areas | Desktop Applications • Mobile Applications • System Tools </h4>
 <h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> 
 Hobbies | Coding • Biking • Climbing • Fishing
