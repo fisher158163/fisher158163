@@ -8,32 +8,61 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fisher158163/fisher158163/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--<h3>
- <img src="assets/hello.gif" width="64"/>
-  Hi, I'm Fisher
-</h3>-->
-
-<!--<h3>
- <img src="assets/drag.gif" width="64"/>
-  Hi, I'm Fisher
-</h3>-->
-
 <h3>
   <img src="https://p.ipic.vip/new41u.gif" style="width: 60px; height: auto;"/>
   <img src='https://p.ipic.vip/i69iy8.gif' alt='Hi' width="24"/>
   Hi, I'm Fisher
 </h3>
 
-<!--<h3>
- <img src="https://github.com/fisher158163/fisher158163/blob/main/assets/hello.gif" width="64"/>
-  Hi, I'm Fisher
-</h3>-->
+<!--<h4> 🌍 I live in Shenzhen, China. </h5>-->
+<h4> 🏠 Based in Shenzhen, China </h4>
 
-<!--<h5> 🌍 I live in Shenzhen, China. </h5>-->
-<h4> 🏠 I live in Shenzhen, China. </h4>
-<h4> 🏢 I’m an engineer work at VisionChina Media. </h4>
-<h4> 💻 I focus on Apple's Platform、Android、 Qt、Electron、Flutter and other technologies. </h4>
-<h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> I like coding、biking、climbing、fishing...... </h4>
+<h4> 🏢 Software Engineer at VisionChina Media </h4>
+
+<h4> 🍎 Apple Platform Engineer | macOS • iOS • watchOS • tvOS • visionOS</h4>
+
+<h4> 🧰 Languages: Objective-C • Swift • C++ • JavaScript </h4>
+
+<h4> 🧩 Frameworks: Qt • Electron • Flutter </h4>
+
+<h4> ⚙️ Engineering Areas: Desktop Applications • Mobile Applications • System Tools </h4>
+
+<h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> 
+Hobbies: Coding • Biking • Climbing • Fishing
+</h4>
+
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tvOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 
 **My Github Stats:**
