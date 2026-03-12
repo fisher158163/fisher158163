@@ -29,11 +29,11 @@ Hobbies | Coding • Biking • Climbing • Fishing
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tvOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-20232A?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-20232A?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/watchOS-20232A?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tvOS-20232A?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visionOS-20232A?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
 </p>
