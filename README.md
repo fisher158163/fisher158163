@@ -18,7 +18,7 @@
 <h4> 📍 Based in Shenzhen, China </h4>
 <h4> 💼 Software Engineer at VisionChina Media </h4>
 <h4> 🍎 Apple Platform Engineer | macOS • iOS • watchOS • tvOS • visionOS</h4>
-<h4> 🧑‍💻 Languages | Objective-C • Swift • C++ • Java • Kotlin • JavaScript • Golang</h4>
+<h4> 🧑‍💻 Languages | Objective-C • Swift • C++ • Kotlin • Java • JavaScript • Golang • PHP</h4>
 <h4> 🧩 Frameworks | Qt • Electron • Flutter • Vue • React</h4>
 <h4> ⚙️ Engineering Areas | Desktop Applications • Mobile Applications • System Tools </h4>
 <h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> 
@@ -45,6 +45,8 @@ Hobbies | Coding • Biking • Climbing • Fishing
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 <p>
