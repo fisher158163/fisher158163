@@ -20,7 +20,7 @@
 <h4> 🍎 Apple Platform Engineer | macOS • iOS • watchOS • tvOS • visionOS</h4>
 <h4> 🧑‍💻 Languages | Objective-C • Swift • C++ • Kotlin • Java • JavaScript • Golang • PHP</h4>
 <h4> 🧩 Frameworks | Qt • Electron • Flutter • Vue • React</h4>
-<h4> ⚙️ Engineering Areas | Desktop Applications • Mobile Applications • System Tools </h4>
+<h4> ⚙️ Engineering Areas | Desktop Applications • Mobile Applications • CLI Tools • Developer Tools • System Utilities </h4>
 <h4> <img src="https://p.ipic.vip/qj71ot.gif" style="width: 18px; height: auto;"/> 
 Hobbies | Coding • Biking • Climbing • Fishing
 </h4>
@@ -68,14 +68,14 @@ Hobbies | Coding • Biking • Climbing • Fishing
 </p>
 
 
-**My Github Stats:**
+### My Github Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=fisher158163&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs,issues)](https://github.com/fisher158163) 
 
-**I Used Languages:**
+### I Used Languages
 
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisher158163&layout=compact&langs_count=8&theme=buefy)](https://github.com/fisher158163)
 
-**My Magic Number:**
+### My Magic Number
 
 ![Visited By](https://count.getloli.com/get/@fisher158163?theme=gelbooru)
