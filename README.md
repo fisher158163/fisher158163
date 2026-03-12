@@ -68,14 +68,14 @@ Hobbies | Coding • Biking • Climbing • Fishing
 </p>
 
 
-### My Github Stats
+### 📊 GitHub Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=fisher158163&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs,issues)](https://github.com/fisher158163) 
 
-### I Used Languages
+### 🧑‍💻 Most Used Languages
 
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fisher158163&layout=compact&langs_count=8&theme=buefy)](https://github.com/fisher158163)
 
-### My Magic Number
+### 🔢 Profile Visitors
 
 ![Visited By](https://count.getloli.com/get/@fisher158163?theme=gelbooru)
