@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 500px; height: auto;"/>
+  <!--<img src="https://p.ipic.vip/dsbb0u.gif" alt="My Github Profile" style="width: 500px; height: auto;"/>-->
+  <img src="assets/welcome-header.gif" alt="My Github Profile" style="width: 500px; height: auto;"/>
 </p>
 
 <picture>
@@ -9,8 +10,10 @@
 </picture>
 
 <h3>
-  <img src="https://p.ipic.vip/new41u.gif" style="width: 60px; height: auto;"/>
-  <img src='https://p.ipic.vip/i69iy8.gif' alt='Hi' width="24"/>
+  <!--<img src="https://p.ipic.vip/new41u.gif" style="width: 60px; height: auto;"/>-->
+  <!--<img src='https://p.ipic.vip/i69iy8.gif' alt='Hi' width="24"/>-->
+  <img src="assets/hello.gif" style="width: 60px; height: auto;"/>
+  <img src='assets/hi.gif' alt='Hi' width="24"/>
   Hi, I'm Fisher
 </h3>
 
