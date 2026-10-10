@@ -18,8 +18,8 @@
 </h3>
 
 <!--<h4> 🌍 I live in Shenzhen, China. </h5>-->
-<h4> 📍 Based in Shenzhen, China </h4>
-<h4> 💼 Software Engineer at VisionChina Media </h4>
+<h4> 📍 Based in Chengdu, China </h4>
+<h4> 💼 Software Engineer at EaseUS </h4>
 <h4> 🍎 Apple Platform Engineer | macOS • iOS • watchOS • tvOS • visionOS</h4>
 <h4> 🧑‍💻 Languages | Objective-C • Swift • C++ • Kotlin • Java • JavaScript • Python • Golang • PHP</h4>
 <h4> 🧩 Frameworks | Qt • Electron • Flutter • Vue • React • Node.js</h4>
